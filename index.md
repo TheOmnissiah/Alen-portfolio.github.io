@@ -4,10 +4,10 @@
 
 ### Projects i worked on
 
-[Crystal Hunt](/https://emperorscorpion.itch.io/crystal-hunt)
+[Crystal Hunt](https://emperorscorpion.itch.io/crystal-hunt)
 <img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzYucG5n/original/qOSJjE.png"/>
 <br>
-Lead programer and programer, also the level designer and lead artist.
+
 <br>
 
 ---
