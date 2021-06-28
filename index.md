@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Projects i worked on
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Crystal Hunt](/https://emperorscorpion.itch.io/crystal-hunt)
+<img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzYucG5n/original/qOSJjE.png"/>
+<br>
+Lead programer and programer, also the level designer and lead artist.
+<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
