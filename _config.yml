@@ -21,7 +21,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <b>Game Engines:</b>
   <br>
   -Unity
-  <br><br><br
+  <br><br>
   <b>3D modeling and aimations:</b>
   <br>
   -Blender
@@ -36,7 +36,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   -ProgiCAD
   <br><br>
-  <b>Other</b>
+  <b>Other</b><br>
   -Github
   <br>
   -AutoCAD
