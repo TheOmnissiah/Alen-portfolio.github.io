@@ -6,6 +6,9 @@
 
 [Crystal Hunt](https://emperorscorpion.itch.io/crystal-hunt)
 <img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzYucG5n/original/qOSJjE.png"/>
+<img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzIucG5n/original/82Fx%2FC.png"/>
+<img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzUucG5n/original/FZ%2FMma.png"/>
+<img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzMucG5n/original/qR7SsB.png"/>
 <br>
 This is a collecting game that I made as a part of the PISMO Unity course with the help from our mentor Cwekii.
 <br>
