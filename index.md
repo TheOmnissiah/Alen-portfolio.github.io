@@ -23,7 +23,9 @@ This game was made in a week long game jam, it was made by myself, KreÅ¡imir KuÄ
 
 ### Projects in development
 
-- [Hellfire](https://img.itch.zone/aW1nLzYzNDA2MDQucG5n/original/5QMQe5.png)
+- Hellfire
+- Krvoplan
+- Castle Wars
 
 ---
 
