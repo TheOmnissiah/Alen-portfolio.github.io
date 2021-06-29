@@ -2,10 +2,10 @@ title: Alen Brebrić # your name (or website title) here
 logo: "/images/Snimka zaslona 2021-06-24 072631.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Date Of Bith: 21.02.2001<br> 
-  Age: 20 Location: Piljenice, Croatia <br>
+  Age: 20 Location: [Piljenice, Croatia](https://www.google.com/maps/place/Piljenice/@45.4231897,16.7796516,13z/data=!3m1!4b1!4m5!3m4!1s0x476704cbc864ab69:0x7c556e1f20dd479f!8m2!3d45.4352675!4d16.8531562) <br>
   E-mail : alenbrebric@gmail.com<br>
   Phone number : 095 502 4225
-  <br><br>
+  <br>
   <b>Programing Skills:</b>
   <br>
   -C#
@@ -13,15 +13,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   -C++
   <br>
   -HTML
-  <br><br>
+  <br>
   <b>Database:</b>
   <br>
   -Fiebase
-  <br><br>
+  <br>
   <b>Game Engines:</b>
   <br>
   -Unity
-  <br><br>
+  <br>
   <b>3D modeling and aimations:</b>
   <br>
   -Blender
@@ -35,7 +35,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   -Mixamo
   <br>
   -ProgeCAD
-  <br><br>
+  <br>
   <b>Other</b><br>
   -Github
   <br>
