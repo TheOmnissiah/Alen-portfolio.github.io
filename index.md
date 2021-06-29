@@ -9,7 +9,9 @@
 <br>
 This game was made in a week long game jam, it was made by myself, Krešimir Kučan, Ante Tavra and  Domagoj Petrović. I was the main prop and level designer.
 <br>
+
 ---
+
 [Crystal Hunt](https://emperorscorpion.itch.io/crystal-hunt)
 <img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzYucG5n/original/qOSJjE.png"/>
 <img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzIucG5n/original/82Fx%2FC.png"/>
