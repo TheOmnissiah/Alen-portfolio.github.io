@@ -7,7 +7,8 @@
 [Can You Save Yourself?](https://emperorscorpion.itch.io/cam-you-save-yourself)
 <img src="https://img.itch.zone/aW1nLzU0NjM3MTcuanBn/original/HgdH9H.jpg"/>
 <br>
-This game was made in a week long game jam, it was made by myself, Krešimir Kučan, Ante Tavra and  Domagoj Petrović. I was the main prop and level designer.
+This game was made in a week long game jam, it was made by myself, Krešimir Kučan, Ante Tavra and Domagoj Petrović. I was the main prop and level designer.
+I was in charge of making the main rocket and making it look as of it was destroyed, and look futuristic. I made 7 diferent stages of repair with particle effects that change in every level.
 <br>
 
 ---
@@ -18,7 +19,7 @@ This game was made in a week long game jam, it was made by myself, Krešimir Ku�
 <img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzUucG5n/original/FZ%2FMma.png"/>
 <img src="https://img.itch.zone/aW1hZ2UvOTU4MTMyLzU0MzMyMzMucG5n/original/qR7SsB.png"/>
 <br>
-This is a collecting game that I made as a part of the PISMO Unity course with the help from our mentor Cwekii.
+This is a collecting game that I made as a part of the PISMO Unity course with the help from our mentor Cwekii.This was a exercise in game making where we we given some time to practice what wee have learned bx making a game where you go around and collect items with a time limit. I decided to go for an island with a few points of intrest and have used crystals as collectibles, as well as using it to practice post procesing effects in Unity.
 <br>
 ---
 ### Projects in development
@@ -26,6 +27,7 @@ This is a collecting game that I made as a part of the PISMO Unity course with t
 - Hellfire
 - Krvoplan
 - Castle Wars
+
 ---
 
 
