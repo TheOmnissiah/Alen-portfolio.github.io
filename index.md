@@ -24,11 +24,8 @@ Special thanks to our mentor:
 
 About
 
-Let's agree that corporations are not trustworthy, they are greedy and most of the time have skeletons in their closets.  However they pay good money for a job well done, if you can cut it, unfortunately you can no longer choose. Earn every penny through destruction of your enemies using your guns and spells.
+In this project we had total creative control over what type of game we wanted to make, so i wanted to make an FPS. This game is centered around using the correct spell or weapon for 4 diefrent types of enemies and surrviving the swarm. More than anything this showed me real dev time and the need to compromise between what i want as a player and what is possible and logical as a developer.
 
-
-
-The game is still in development and you can try out our free demo which includes first two levels of the game and a tutorial. You can find weapons and spells so exploring the levels is worth it but it can be dangerous if you get swarmed. Depending on how you take care of the enemies you get drops, killing an enemy with a spell can drop ammo, killing an enemy with a gun can drop mana and killing an enemy with a melee attack can drop health kits.
 <br>
 
 ---
