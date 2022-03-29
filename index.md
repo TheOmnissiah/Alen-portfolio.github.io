@@ -1,5 +1,16 @@
 ## Portfolio
 
+##About me:
+
+<br>
+My name is Alen Brebrić. I am a programmer in Unity engine from Croatia.
+
+I currently reside in my home country of Croatia, Eastern Europe, and I am interested both in remote work as well as relocation options based on the company needs and requirements and travel for work.
+
+I really enjoy making, editing and using particle effects and the use of lighting.I made one scene for my friend whitch you can find here : https://www.youtube.com/watch?v=Z2p2CWPz0v4
+<br>
+
+
 ### Projects I worked on
 
 ---
