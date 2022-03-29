@@ -1,8 +1,11 @@
 ## Portfolio
 
+### Projects I worked on
+
 ---
 
 [Hellfire](https://emperorscorpion.itch.io/hellfire)
+<br>
 <img src="https://img.itch.zone/aW1nLzY2MTExMzQucG5n/original/5gb6V8.png"/>
 <img src="https://img.itch.zone/aW1hZ2UvMTA5ODg3My82NjExMDczLnBuZw==/original/0Bz8Ns.png"/>
 <img src="https://img.itch.zone/aW1hZ2UvMTA5ODg3My82NjExMDcyLnBuZw==/original/y2GJ6X.png"/>
@@ -29,8 +32,6 @@ In this project we had total creative control over what type of game we wanted t
 <br>
 
 ---
-
-### Projects I worked on
 
 [Can You Save Yourself?](https://emperorscorpion.itch.io/cam-you-save-yourself)
 <img src="https://img.itch.zone/aW1nLzU0NjM3MTcuanBn/original/HgdH9H.jpg"/>
